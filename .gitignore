@@ -1,0 +1,10 @@
+# Nunca subir respaldos del inventario
+*.xlsx
+*.xls
+*.csv
+
+# Archivos locales
+.claude/
+.DS_Store
+Thumbs.db
+node_modules/
