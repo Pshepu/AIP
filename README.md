@@ -13,6 +13,14 @@ App para el celular para llevar el inventario de un almacén o bazar:
 
 **Tus datos se guardan solo en tu teléfono.** Este repositorio tiene el programa, nunca tu inventario.
 
+## Sobre este proyecto
+
+Lo hice para resolver un problema real (control de inventario de un almacén) sin depender de
+internet ni de un servidor propio: todo corre en el teléfono como PWA instalable, con los datos
+en IndexedDB y respaldo manual a Excel. Diseño y desarrollo en solitario, con asistencia de IA.
+
+Detalle técnico en la sección [Para quien programe](#para-quien-programe), al final de este README.
+
 ---
 
 # Guía: publicar AIP en GitHub y pasarla a tu teléfono
